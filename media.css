@@ -1,4 +1,7 @@
 @media all and (min-width: 375px) {
+    .last-footer {
+        display: none;
+    }
     .last {
         margin-left: 20px;
         margin-top: 124px;
