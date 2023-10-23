@@ -154,7 +154,7 @@
 }
 
 .bacground {
-    background-image: url(../foto/back.svg);
+    background-image: url(../final.task/foto/back.svg);
     background-repeat: no-repeat;
     isolation: isolate;
    
@@ -269,7 +269,7 @@
      line-height: 28.5px; /* 203.571% */
     }
     .bacground {
-        background-image: url(../foto/back.svg); 
+        background-image: url(../final.task/foto/back.svg); 
         
         height: 647px;
         background-size: cover;
@@ -399,7 +399,7 @@ margin-top: 120px;
 .document {
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(../foto/crow.svg);
+    background-image: url(../final.task/foto/crow.svg);
 }
 
 }
@@ -492,7 +492,7 @@ margin-top: 120px;
         margin-right: 135px;
       }
       .bacground {
-        background-image: url(../foto/back1.svg); 
+        background-image: url(../final.task/foto/back1.svg); 
         background-size: cover;
         width: 1440px;
         height: 754px;
